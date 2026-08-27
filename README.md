@@ -112,3 +112,6 @@ Allows the user to:
 
 The program checks whether paths exist before performing operations.
 
+## LinkedIn
+
+https://lnkd.in/p/deC6qC2K
